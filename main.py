@@ -1,3 +1,5 @@
+# This project is based on open-source code licensed under the MIT License.
+
 import hashlib
 import json
 from time import time
