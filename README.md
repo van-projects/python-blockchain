@@ -5,10 +5,8 @@ This project implements a basic blockchain using Python and Flask. It demonstrat
 # Steps to run
 1. Clone the repository:
    git clone https://github.com/van-projects/python-blockchain
-2. CD into the project folder:
-   cd python-blockchain
-3. Install required dependencies:
-   pip install -r requirements.txt
+2. CD into the project folder
+3. Install required dependencies
 4. Run the application:
    py main.py
 5. Use Postman or any API client to send GET and POST requests to:
